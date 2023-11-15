@@ -1,0 +1,28 @@
+[
+  {
+    "name": "jim",
+    "email": "@yahoo",
+    "phone": "777 777 7777",
+    "bithdate": "2207",
+    "id": 1
+  },
+  
+  {  "name": "jimx",
+    "email": "@yahoox",
+    "phone": "777 777 7777x",
+    "bithdate": "2207x",
+    "id": 2
+  },
+  {"name": "jimy",
+    "email": "@yahooy",
+    "phone": "777 777 7777y",
+    "bithdate": "2207y",
+    "id": 3
+  },
+  {"name": "jimz",
+    "email": "@yahooz",
+    "phone": "777 777 7777z",
+    "bithdate": "2207z",
+    "id": 4
+  }
+]
